@@ -1,6 +1,4 @@
-#SF contact = https://thevitalitygroup.my.salesforce.com/00O2J000005zASt?csv=1
-#SF rebate = https://thevitalitygroup.my.salesforce.com/00O2J000005zATS?csv=1
-#SF forms = https://thevitalitygroup.my.salesforce.com/00O2J000005zC87?csv=1
+
 #rerun mall query a few times per year
 
 packages <- c("plyr", "dplyr", "tidyr", "stringr", "splitstackshape", 
